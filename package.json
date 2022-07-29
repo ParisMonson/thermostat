@@ -1,0 +1,23 @@
+{
+  "name": "thermostat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParisMonson/thermostat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ParisMonson/thermostat/issues"
+  },
+  "homepage": "https://github.com/ParisMonson/thermostat#readme",
+  "dependencies": {
+    "jest": "^28.1.3"
+  }
+}
